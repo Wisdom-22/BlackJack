@@ -27,7 +27,7 @@ public class BlackJack {
     public static final String CYAN_BOLD = "\033[1;36m";   // CYAN
     public static final String WHITE_BOLD = "\033[1;37m";  // WHITE
     
-    //Background
+    //Background Color
     public static final String RED_TEXT = "\u001B[31m";
     public static final String GREEN_TEXT = "\u001B[32m";
     public static final String YELLOW_TEXT = "\u001B[33m";

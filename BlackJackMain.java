@@ -24,10 +24,10 @@ public class BlackJackMain {
 		
 		while(character != 'Q') {
 			System.out.println(BLACK_BG + YELLOW_TEXT + "|---------------------------------------------------------------------------------------------------------------------------------------------------|");
-			System.out.println("|---------------------------------------------WELCOME TO THE CONSOLE VERSION OF THE BLACK JACK GAME-------------------------------------------------|");
-			System.out.println("|                                                      To Play a New Game, Press N                                                                  |");
-			System.out.println("|                                                      To see the Rules Press R                                                                     |");
-			System.out.println("|                                                      To Quit the game press Q                                                                     |");
+			System.out.println("|---------------------------------------------WELCOME TO THE CONSOLE VERSION OF THE BLACK JACK GAME.-------------------------------------------------|");
+			System.out.println("|                                                      To Play a New Game, Press N.                                                                  |");
+			System.out.println("|                                                      To see the Rules Press R.                                                                     |");
+			System.out.println("|                                                      To Quit the game press Q.                                                                     |");
 			System.out.println("|---------------------------------------------------------------------------------------------------------------------------------------------------|" + RESET);
 			character = scan.next().charAt(0);
 			
